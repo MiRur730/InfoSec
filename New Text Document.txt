@@ -1,0 +1,8 @@
+nslookup thapar.edu
+nslookup google.com
+
+sudo nano /etc/hosts
+
+102.88.99.99 thapar.edu
+
+ping thapar.edu
